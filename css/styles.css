@@ -1,0 +1,44 @@
+body {
+  background-color: #db1616;
+}
+
+.top-container {
+  background-color: #db1616;
+  margin:0px;
+  padding: 0px;
+}
+.middle-container , .bottom-container {
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+  background-color:#66BFBF;
+  margin:100px;
+  padding: 50px;
+  text-align: center;
+  display: block;
+}
+
+.h2Name, .title {
+  font-family: 'Pacifico', cursive;
+  font-size: 53px;
+  color: #242121;
+  text-align: center;
+  margin: 0;
+}
+
+.name {
+  margin-top: 150px;
+}
+
+.profile-photo {
+  width: 275px;
+  height: 250px;
+  border-radius: 100%;
+  text-align: center;
+  margin-left: 620px;
+}
+
+
+p::first-letter {
+  font-size: 60px;
+  color: red;
+}
